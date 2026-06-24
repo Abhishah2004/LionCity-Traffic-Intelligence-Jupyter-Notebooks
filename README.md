@@ -4,8 +4,7 @@
 This repository contains the exploratory data analysis and model development work behind **LionCity Traffic Intelligence**, a Random Forest–based traffic congestion prediction system for Singapore.
 
 🔗 **Live App:** [lioncity-traffic-intelligence.streamlit.app](https://lioncity-traffic-intelligence.streamlit.app/)
-🔗 **Deployment Repo:** *(link to your app repo here)*
-
+🔗 **Deployment Repo:** https://github.com/Abhishah2004/LionCity-Traffic-Intelligence
 ---
 
 ## 📁 Contents
